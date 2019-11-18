@@ -10,7 +10,7 @@ exports.create = (req, res, err) => {
         firstname: req.body.firstname,
         lastname: req.body.lastname,
         admin: req.body.admin
-    })
+    });
 
     user.save()
         .then(data => {
