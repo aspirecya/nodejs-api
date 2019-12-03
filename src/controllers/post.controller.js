@@ -11,7 +11,7 @@ exports.create = (req, res) => {
         id_user: req.body.id_user,
     });
 
-    Post.save()
+    post.save()
         .then(data => {
             res.send(data);
         })

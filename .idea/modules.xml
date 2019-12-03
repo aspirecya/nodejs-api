@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/nodejs-api.iml" filepath="$PROJECT_DIR$/.idea/nodejs-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-front/.idea/react-front.iml" filepath="$PROJECT_DIR$/../react-front/.idea/react-front.iml" />
       <module fileurl="file://$USER_HOME$/WebstormProjects/ynov_nodejs/.idea/ynov_nodejs.iml" filepath="$USER_HOME$/WebstormProjects/ynov_nodejs/.idea/ynov_nodejs.iml" />
     </modules>
   </component>
